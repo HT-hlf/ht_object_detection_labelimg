@@ -1,0 +1,11 @@
+y0
+y1
+y2
+y3
+w0
+w1
+w2
+w3
+scratch
+shed
+bolt
