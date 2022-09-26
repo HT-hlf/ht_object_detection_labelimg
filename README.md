@@ -3,7 +3,7 @@
 
 # 代码环境配置
 
-- 下载labelImg 源码包（下载压缩包或者git都行）
+- 下载[labelImg 源码包](https://github.com/heartexlabs/labelImg.git)（下载压缩包或者git都行）
 
   - 压缩包本文件夹已包含
   - git方式
