@@ -5,7 +5,7 @@
 
 - 下载labelImg 源码包（下载压缩包或者git都行）
 
-  - 压缩包本文件已包含
+  - 压缩包本文件夹已包含
   - git方式
 
   ```
@@ -32,7 +32,7 @@
   pyrcc5 -o libs/resources.py resources.qrc
   ```
 
-  - 其他参考labelImg-master\README.rst
+  - 其他参考[labelImg-master\README.rst](https://github.com/HT-hlf/ht_object_detection_labelimg/blob/master/labelImg-master/labelImg-master/README.rst)
 
 # 标注
 
